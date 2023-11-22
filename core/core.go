@@ -110,6 +110,13 @@ func Main(cmd *cobra.Command, args []string) (err error) {
 		return
 	}
 
+	// pre-commit
+	if util.IsExistCommand("pre-commit") {
+		if err = util.Execute("pre-commit", "install"); err != nil {
+			return
+		}
+	}
+
 	// ブラウザを開く
 	if err = util.Open(repoUrl); err != nil {
 		return

@@ -5,7 +5,7 @@
 
 Interactive boilerplate for myself.
 
-needs `go`, `gh` and `git`.
+needs `go`, `gh` and `git`.  `pre-commit` is nice to have.
 
 ## Installation
 
