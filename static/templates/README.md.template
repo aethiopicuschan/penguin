@@ -1,0 +1,6 @@
+# {{.Name}}
+
+[![License: {{.License}}](https://img.shields.io/badge/License-{{.License}}-brightgreen?style=flat-square)](/LICENSE)
+[![Go Reference](https://pkg.go.dev/badge/github.com/{{.Author}}/{{.Name}}.svg)](https://pkg.go.dev/github.com/{{.Author}}/{{.Name}})
+[![Go Report Card](https://goreportcard.com/badge/github.com/{{.Author}}/{{.Name}}?branch=main)](https://goreportcard.com/report/github.com/{{.Author}}/{{.Name}})
+[![CI](https://github.com/{{.Author}}/{{.Name}}/actions/workflows/ci.yaml/badge.svg)](https://github.com/{{.Author}}/{{.Name}}/actions/workflows/ci.yaml)
