@@ -6,3 +6,9 @@
 Interactive boilerplate for myself.
 
 needs `go`, `gh` and `git`.
+
+## Installation
+
+```sh
+go install github.com/aethiopicuschan/penguin@latest
+```
