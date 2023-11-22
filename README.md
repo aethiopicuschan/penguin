@@ -4,3 +4,5 @@
 [![CI](https://github.com/aethiopicuschan/penguin/actions/workflows/ci.yaml/badge.svg)](https://github.com/aethiopicuschan/penguin/actions/workflows/ci.yaml)
 
 Interactive boilerplate for myself.
+
+needs `go`, `gh` and `git`.
